@@ -1,0 +1,271 @@
+Timestamp,Participant ID,Study Condition,Q5 Do you notice any changes during the interaction time?,Condition Order,"Q1 There were times when I felt that the virtual hand was part of my body.
+-3: Strongly Disagree
+-2: Disagree
+-1: Somewhat Disagree
+0: Neutral
+1: Somewhat Agree
+2: Agree
+3: strongly agree","Q2 There were times when I felt like I had more than one right hand. 
+-3: Strongly Disagree
+-2: Disagree
+-1: Somewhat Disagree
+0: Neutral
+1: Somewhat Agree
+2: Agree
+3: strongly agree","Q3 There were times when I felt I could control the virtual hand as if it was my own.
+-3: Strongly Disagree
+-2: Disagree
+-1: Somewhat Disagree
+0: Neutral
+1: Somewhat Agree
+2: Agree
+3: strongly agree","Q4 I never felt that the virtual hand was part of my body.
+-3: Strongly Disagree
+-2: Disagree
+-1: Somewhat Disagree
+0: Neutral
+1: Somewhat Agree
+2: Agree
+3: strongly agree"
+06/09/2024 14:00:50,1,Default,"very immediate interaction, very fast",7,2,-2,2,-2
+06/09/2024 14:45:53,2,Default,no,3,2,-2,2,-2
+06/09/2024 16:10:32,3,Default,Virtual hand matched my actual hand's position,11,3,-3,3,-3
+06/09/2024 16:25:12,4,Default,no,2,2,0,2,-1
+06/09/2024 18:26:54,5,Default,i feel tired when i have to press button on the left side.,8,-2,-1,-1,0
+06/09/2024 23:57:31,11,Default,Had to stretch out my arm more. Felt like a 1-to-1 mapping.,5,2,-2,2,-2
+07/09/2024 02:25:51,12,Default,,5,3,-2,3,-2
+07/09/2024 04:15:09,13,Default,The virtual hand goes less further than my real hand,9,2,-2,2,2
+07/09/2024 12:55:41,6,Default,Yes. The control stays linear throughout this time,6,3,-3,3,-3
+09/09/2024 13:23:29,7,Default,Nope,4,1,0,1,0
+09/09/2024 14:31:48,8,Default,"I can feel the hand extension, but not too hard to control",10,2,-2,2,-2
+09/09/2024 15:16:43,9,Default,no,1,1,-2,2,-1
+09/09/2024 16:33:18,10,Default,"Just one button below, I need to move far to get. Others are fine.",9,2,-3,2,-2
+09/09/2024 17:36:53,14,Default,no,1,2,-2,2,-2
+10/09/2024 01:04:29,15,Default,The hand was always slower than naturally would,10,1,1,0,1
+10/09/2024 01:34:21,16,Default,"This one didn't seem to change, i.e. it mapped directly to my hand the whole time",4,3,-3,3,-2
+10/09/2024 12:10:06,17,Default,"Not really, it was the same as the last test",6,0,-2,2,2
+10/09/2024 13:57:52,18,Default,"no, the virtual hand follow my right hand movement in a consistent pattern",8,-1,-3,2,-1
+10/09/2024 14:42:52,19,Default,no,2,2,-3,2,3
+10/09/2024 19:11:04,20,Default,This time is by far the best run. The distance and speed is just like my real hand.,11,3,-3,3,-3
+21/11/2024 16:46:45,21,Default,It is harder to clike the button,,-3,0,-3,-3
+21/11/2024 18:09:29,22,Default,no,,1,-1,1,-3
+06/09/2024 13:58:42,1,GoGo,it felt a bit slower,6,1,1,1,0
+06/09/2024 14:57:44,2,GoGo,maybe my arm was bent more at the end but not sure,7,2,-2,2,-2
+06/09/2024 15:36:34,3,GoGo,"Extending virtual hand from the start of the test, able to treat as an extension of hand.",2,1,3,2,-2
+06/09/2024 16:54:27,4,GoGo,hand movement was slightly augmented and felt more consistent throughout,11,1,1,1,0
+06/09/2024 17:58:45,5,GoGo,No,3,-2,-2,0,-1
+07/09/2024 00:04:44,11,GoGo,Not during but overall felt like I had to wrestle with go-go quite a bit.,8,1,1,-1,2
+07/09/2024 02:28:21,12,GoGo,I noticed a small distance between my actual hand and the virtual hand from the very beginning.,6,-1,-2,-1,1
+07/09/2024 04:01:09,13,GoGo,I seems I have a good control of the virtual hand,4,2,-1,2,-2
+07/09/2024 13:00:22,6,GoGo,Yes. The control stays non-linear throughout this time,7,2,-3,2,-3
+09/09/2024 13:30:25,7,GoGo,Nope,7,-2,-2,-1,2
+09/09/2024 14:09:37,8,GoGo,the extension ratio seems lower,3,2,-2,3,-2
+09/09/2024 15:42:18,9,GoGo,"Arm was easier to control, except the ones that were further away I would over estimate the distance",11,-1,1,-1,1
+09/09/2024 16:13:59,10,GoGo,The forward motion of my virtual hand is more far than I actually moved.,2,-2,-3,-2,2
+09/09/2024 18:08:32,14,GoGo,"quite to easy to control when reaching the button near me, but a bit hard to touch the far away ones",10,1,-2,0,-1
+10/09/2024 00:32:31,15,GoGo,It felt like I got more used to the hand.,1,-1,-1,-1,1
+10/09/2024 01:44:24,16,GoGo,"This one seemed to have scaling from the start, perhaps it stopped scaling towards the end but I can't say for sure",9,2,-2,2,-2
+10/09/2024 12:06:47,17,GoGo,"It was easier to use, though at this point the virtual hand feels less like a real hand and more like a sort of controller?",5,1,-2,1,2
+10/09/2024 13:48:26,18,GoGo,"the virtual hand can follow my right hand in most of time, but sometimes it cannot follow me well",5,2,-2,2,-2
+10/09/2024 15:07:01,19,GoGo,no,9,1,-3,2,2
+10/09/2024 18:42:15,20,GoGo,"The virtual hand is a bit faster when my real hand moves, so I need to slow down to click the button.",1,1,-1,-1,0
+21/11/2024 17:15:06,21,GoGo,"It is super hard to clike the buttons, espicially for the final buttons. And the view is very vague",,-2,-2,-2,1
+21/11/2024 17:59:05,22,GoGo,no,,1,-1,1,-3
+06/09/2024 14:02:40,1,Mid-High,"fast on short distance, slower for long range",8,1,2,2,-1
+06/09/2024 14:53:23,2,Mid-High,close to the end it seemed like my arm suddenly got longer,6,2,-2,2,-2
+06/09/2024 15:47:30,3,Mid-High,"Virtual hand extending towards the end of the test, hand extension feels more akin to throwing the hand to hit targets",4,2,2,2,-2
+06/09/2024 16:51:03,4,Mid-High,tracking started normal and became augmented harder to control,10,1,2,1,1
+06/09/2024 17:48:52,5,Mid-High,"at the end, i feel less control to press button. In the  it was more smoothly.",1,-2,-2,-1,-1
+07/09/2024 00:08:58,11,Mid-High,Felt like it switched to go-go again at some point,10,2,1,2,-2
+07/09/2024 02:24:11,12,Mid-High,At some point the virtual hand suddenly moved away from my actual hand.,4,2,-2,2,-2
+07/09/2024 04:07:00,13,Mid-High,The virtual hand flies everywhere at the late half part of this section.,6,1,3,-2,-2
+07/09/2024 13:05:56,6,Mid-High,"Yes, the control became very non-linear towards the end",9,2,-3,2,-3
+09/09/2024 13:26:28,7,Mid-High,There are some hand tracking problems after computer crashing.,5,1,-1,1,1
+09/09/2024 14:16:10,8,Mid-High,"it hard to reach far for the first couple of targets, and easy to overshoot for the later targets",5,1,-1,1,0
+09/09/2024 15:37:48,9,Mid-High,Buttons were further away from each other. Couldn't move my arm as easily,9,-3,3,-3,3
+09/09/2024 16:11:09,10,Mid-High,The right hand is becoming far from my body since the last half part,1,1,-3,2,0
+09/09/2024 18:02:26,14,Mid-High,first half took the full strength then a minor movement of hand lead to a big jump in the second half ,8,1,1,-2,-2
+10/09/2024 00:35:48,15,Mid-High,It was normal at the beginning but my hand moved further than I expected later,2,1,0,1,-2
+10/09/2024 01:47:56,16,Mid-High,"It seemed that the scaling was applied only towards the end, maybe two thirds of the way through",11,2,-2,1,-2
+10/09/2024 11:58:45,17,Mid-High,"First half the virtual hand felt natural to use, later it became offset again and sometimes lagged when I moved it too fast",3,1,-2,1,0
+10/09/2024 13:55:05,18,Mid-High,"the virtual hand follow me well in the beginning, but it become totally out of my control later",7,-1,-2,-1,-1
+10/09/2024 15:02:16,19,Mid-High,"sometimes just passing through he button (when the pace of the handmovement was fast), the button would click. ",7,-1,-3,2,3
+10/09/2024 18:48:59,20,Mid-High,"The virtual hand was sychronised at first, but seconds after, it moved slower.",3,2,2,2,-2
+21/11/2024 17:20:41,21,Mid-High,none,,1,1,1,-1
+21/11/2024 17:56:06,22,Mid-High,"at the beginning I feel I had better control of my hand compared, but I feel less control on it after half-time of the study",,2,-2,2,-3
+06/09/2024 14:04:22,1,Mid-Low,"no, very fast",9,2,-2,2,-2
+06/09/2024 14:40:01,2,Mid-Low,yes,1,2,-2,2,-2
+06/09/2024 16:07:18,3,Mid-Low,Doesn't feel too different from previous hand extensions,10,1,2,2,-1
+06/09/2024 16:31:27,4,Mid-Low,hand tracking started off same as real life then became augmented partway through,4,2,1,2,-1
+06/09/2024 18:19:53,5,Mid-Low,No,6,-1,-1,-2,0
+07/09/2024 00:02:07,11,Mid-Low,Felt like it switched to go-go at some point.,7,2,1,2,-2
+07/09/2024 02:22:02,12,Mid-Low,,3,3,-2,3,2
+07/09/2024 04:20:13,13,Mid-Low,It sync with my real hands well but the clicking action wasn't very accurate,11,2,-2,2,-1
+07/09/2024 13:03:10,6,Mid-Low,Yes. The conrol started linear but became non-linear towards the end,8,2,-3,2,-3
+09/09/2024 13:18:00,7,Mid-Low,Nope.,2,2,-1,2,0
+09/09/2024 14:33:53,8,Mid-Low,"i can feel the hand extension, but not too hard to control",11,2,-2,3,-2
+09/09/2024 15:23:13,9,Mid-Low,Easier to control my arm,3,2,-2,2,-2
+09/09/2024 16:27:58,10,Mid-Low,The forward motion is a little bit shorter than I actually did.,7,1,-3,1,0
+09/09/2024 17:40:39,14,Mid-Low,very hard to control during the second half of the process,2,1,-2,-2,-1
+10/09/2024 00:57:00,15,Mid-Low,"The hand moved shorter than I naturally feel at the beginning, and toowards the end my hand moved further than naturally would.",8,-1,1,-2,2
+10/09/2024 01:38:21,16,Mid-Low,This one seemed to directly map to my hand the whole time,6,2,-2,2,-2
+10/09/2024 12:02:05,17,Mid-Low,"Mostly the same as the last one, there was less lag in this one I think",4,0,-2,1,1
+10/09/2024 14:03:13,18,Mid-Low,no,10,1,-2,1,-1
+10/09/2024 14:39:07,19,Mid-Low,no,1,2,-1,3,3
+10/09/2024 19:05:01,20,Mid-Low,This time i need to reach my hand a bit far but the hand is accurate and slow.,9,2,-1,2,-2
+21/11/2024 16:54:55,21,Mid-Low,"In the beginning, for each button, it needs at least twice to clike the button,  and for the last few buttons, it is very easy to do the task",,0,0,2,-3
+21/11/2024 18:04:28,22,Mid-Low,"Yes, at the beginning (maybe first 10) I feel I had better control of the hand compare to the last interactions (last 20)",,1,-1,2,-3
+06/09/2024 13:56:14,1,Mid-Medium,very fast ,5,2,-1,2,-1
+06/09/2024 14:50:57,2,Mid-Medium,i think my elbow was bent more at the end,5,2,-2,2,-2
+06/09/2024 16:04:32,3,Mid-Medium,"Faster return time on hand extensions, more comfortable to use if target was wiffed",9,2,2,2,-1
+06/09/2024 16:23:03,4,Mid-Medium,hand movement felt like it started getting scaled up at the end,1,0,2,1,-1
+06/09/2024 18:35:59,5,Mid-Medium,the control in this stage is much better.,10,-1,-1,-1,0
+06/09/2024 23:52:00,11,Mid-Medium,"It felt a bit like ""animations on 2s"". It was a bit laggy and jiterry and felt to move in discrete steps. Also go-go.",3,2,1,1,-2
+07/09/2024 02:30:54,12,Mid-Medium,"Again there was a gradually happening mismatch betwen the actual and virtual hand, I felt that I got better at using the virtual hand compared to the previous rounds.",7,2,1,2,-2
+07/09/2024 04:09:45,13,Mid-Medium,"I can feel this virtual hand is not part of my body, but I feel I can control it. ",7,2,-1,3,-2
+07/09/2024 12:46:00,6,Mid-Medium,Yes. The control went from linear to non-linear,4,3,-2,3,-3
+09/09/2024 13:28:35,7,Mid-Medium,Nope,6,1,0,1,1
+09/09/2024 14:26:12,8,Mid-Medium,hand retraction (50%) + extension (50%),8,1,-1,2,-1
+09/09/2024 15:19:43,9,Mid-Medium,Orientation of hand wasn't true to my real life hand,2,-1,2,-1,2
+09/09/2024 16:38:26,10,Mid-Medium,The forward motion moves far in the last half process,11,1,-3,1,-1
+09/09/2024 17:44:03,14,Mid-Medium,"still hard to control on the second half, even worse than the previous one",3,-1,-1,-2,-1
+10/09/2024 01:06:30,15,Mid-Medium,the hand got from slower to faster but never felt like my own hand,11,0,2,-1,2
+10/09/2024 01:29:59,16,Mid-Medium,"Yes, about half way through the scaling changed and it was harder to control",2,2,-2,1,-1
+10/09/2024 12:17:36,17,Mid-Medium,It went back to feeling easy,8,-1,-2,1,2
+10/09/2024 13:51:13,18,Mid-Medium,"the virtual hand can follow me well in the beginning, but it tended to out of my control later",6,-2,-2,-1,-1
+10/09/2024 14:49:51,19,Mid-Medium,"it started off with a better pace, but halfway through the hand movements became faster. also felt than the hand placements were below were i was trying to press.",4,1,-3,2,3
+10/09/2024 19:08:04,20,Mid-Medium,"The hand is becoming faster, and my are is far at the begining and then near my body.",10,2,-2,2,-2
+21/11/2024 16:37:50,21,Mid-Medium,no,,-1,0,-2,0
+21/11/2024 18:15:37,22,Mid-Medium,after half of the interaction there is less control on the hand and the time increases,,1,-1,1,-3
+06/09/2024 13:53:54,1,Quarter-High,faster interaction time,4,-2,2,-1,2
+06/09/2024 15:15:04,2,Quarter-High,no,10,2,-2,2,-2
+06/09/2024 15:33:14,3,Quarter-High,Desync between right hand position and virtual hand,1,-1,2,1,-1
+06/09/2024 16:47:49,4,Quarter-High,movement started normal and became multipled excessively,9,2,2,1,-1
+06/09/2024 18:15:46,5,Quarter-High,"I feel tired in this stage. in some cases, the control to press  become difficult, that was annoying. ",5,-2,-1,0,0
+06/09/2024 23:59:37,11,Quarter-High,Felt like it switched to go-go at half point.,6,2,1,2,-2
+07/09/2024 02:33:36,12,Quarter-High,"There was a sudden change of distance between the actual hand and virtual hand. But this time, wierd enough, I felt I had two right hands...",8,2,3,2,-2
+07/09/2024 03:55:34,13,Quarter-High,The feeling changes and I feel it's out of my control towards the end of this section. ,2,1,1,2,-2
+07/09/2024 12:48:51,6,Quarter-High,"Yes, the target pointing became easier towards the end",5,3,-2,3,-3
+09/09/2024 13:35:18,7,Quarter-High,Nope.,9,-2,-2,-1,1
+09/09/2024 14:03:19,8,Quarter-High,my hand seems extended sometimes,1,2,-2,3,-2
+09/09/2024 15:39:56,9,Quarter-High,Arm was harder to control when the buttons were closer to me and lower.,10,-2,3,-2,2
+09/09/2024 16:19:22,10,Quarter-High,The forward and back motion is not stable during the process.,4,-2,-3,1,2
+09/09/2024 18:11:52,14,Quarter-High,"first half really easy to control, but the second half I have to fold my arm (which I don't like) and it's hard to control",11,-1,2,-2,0
+10/09/2024 00:38:47,15,Quarter-High,"It was fine at the beginning, but the hand moved further than I wanted towards the end again",3,2,1,2,-2
+10/09/2024 01:40:13,16,Quarter-High,This one added scaling about half way through,7,2,-2,1,-2
+10/09/2024 12:13:33,17,Quarter-High,The hand became a bit offset which made it feel less immersive,7,-2,-2,0,2
+10/09/2024 13:43:32,18,Quarter-High,"the movement of the virtual hand was unorganized in most of the time, but sometimes it can follow my movement well",3,-2,-2,-3,2
+10/09/2024 15:12:47,19,Quarter-High,"the buttons ere placed a bit further. also out of all tries, the handmovements felt the fastest.",11,2,-2,3,2
+10/09/2024 18:45:58,20,Quarter-High,I feel like the virtual hand is a bit not sychronized,2,-1,-1,-2,1
+21/11/2024 17:07:36,21,Quarter-High,It is very hard to clike the first 3 buttons,,2,2,2,2
+21/11/2024 18:07:17,22,Quarter-High,"same as the previous time, after the first 10 interactions or so I feel less control of my hand and the interaction time increases",,1,-1,1,-3
+06/09/2024 13:51:47,1,Quarter-Low,quicker and more immediate time,3,2,0,2,0
+06/09/2024 15:05:31,2,Quarter-Low,i think my movements were being amplified more as time went on,8,2,-2,2,-2
+06/09/2024 15:55:28,3,Quarter-Low,Shorter hand extension was more manageable to control with less down time for missing targets,7,1,2,2,-1
+06/09/2024 16:28:33,4,Quarter-Low,hand movement forward was being amplified,3,1,2,1,2
+06/09/2024 18:38:56,5,Quarter-Low,,11,-1,-1,-1,0
+06/09/2024 23:46:20,11,Quarter-Low,"Yes, I felt faster. I felt like I knew where the targets were sometimes too.",1,2,-3,2,-2
+07/09/2024 02:35:27,12,Quarter-Low,,9,3,-2,2,-3
+07/09/2024 04:04:41,13,Quarter-Low,"Don't know if it's because the calibriation, this time the clicking action wasn't detected by the system as good as previous runs. ",5,2,-2,-1,2
+07/09/2024 12:39:54,6,Quarter-Low,Yes. The control of the virtual hand became increasingly non-linear,2,3,-3,3,-3
+09/09/2024 13:32:09,7,Quarter-Low,Nope,8,2,0,2,0
+09/09/2024 14:19:08,8,Quarter-Low,linear (50%) + extended (50%),6,1,-1,2,-1
+09/09/2024 15:25:27,9,Quarter-Low,"Arm was shaky and jerky, making it harder to control",4,-3,3,-3,3
+09/09/2024 16:35:55,10,Quarter-Low,"There are four buttons in the up part, where the forward motion moves far.",10,2,-3,2,-2
+09/09/2024 17:49:00,14,Quarter-Low,similar to the second condition,5,1,-1,-1,-1
+10/09/2024 01:02:27,15,Quarter-Low,The hand was fine at the beginning and moved further towards the end,9,2,2,1,-2
+10/09/2024 01:27:38,16,Quarter-Low,"Yes, at the start I didn't notice GoGo scaling but picked up on it about half way through",1,3,-2,2,-3
+10/09/2024 12:30:39,17,Quarter-Low,It felt easy. Towards the end there was a little bit of offset but otherwise overall it felt easy,10,-1,-2,2,2
+10/09/2024 13:46:03,18,Quarter-Low,"the virtual hand can work as my hand in most of the time, but sometimes it can not follow my right hand well",4,2,-2,2,-1
+10/09/2024 14:58:29,19,Quarter-Low,"hand movemens felt slower in the beginning, later half felt that there was a chnage in pace",6,2,-2,2,3
+10/09/2024 19:02:19,20,Quarter-Low,This time is accurate and slow.,8,2,-1,2,-2
+21/11/2024 16:42:50,21,Quarter-Low,It is very alike last time,,-3,0,1,-1
+21/11/2024 18:20:27,22,Quarter-Low,after half of the interaction there is less control and the time increases,,-1,-1,0,-3
+06/09/2024 14:06:48,1,Quarter-Medium,"fast, but slow for long range",10,1,2,1,2
+06/09/2024 14:48:39,2,Quarter-Medium,"yes, it felt like my hand movements were amplified more as the task went on.",4,2,-2,2,-2
+06/09/2024 15:53:23,3,Quarter-Medium,"immediate change to hand extension distance was jarring at first, I was able to adjust.",6,1,3,2,-2
+06/09/2024 16:44:49,4,Quarter-Medium,changed from accurate tracking to exaggerating distance from body,8,2,2,2,-1
+06/09/2024 17:55:49,5,Quarter-Medium,"The buttons are in the left side, which i used my right hand. ",2,-1,0,0,0
+07/09/2024 00:11:11,11,Quarter-Medium,"First bit felt a bit like a negative gain (the hand wasn't moving as much as I wanted), then it switched to go-go (which I find annoying)",11,2,1,1,-2
+07/09/2024 02:20:05,12,Quarter-Medium,"The virtual hand was gradually moving away from my actual hand, and I like this gradual transition as it enabled me to better ""embody"" the virtual hand that provided me with some distance gain.",2,1,-1,2,-2
+07/09/2024 04:13:01,13,Quarter-Medium,"Similar as the last run, but the virtual hand is more sync to my real hand.",8,2,-1,2,-2
+07/09/2024 13:10:32,6,Quarter-Medium,Yes. The control started linear but became increasingly non-linear,11,2,-3,2,-3
+09/09/2024 13:21:11,7,Quarter-Medium,The distance of the virtual hand from me is increasing.,3,1,0,1,1
+09/09/2024 14:22:43,8,Quarter-Medium,linear (30%) + extended (70%),7,2,-2,2,-1
+09/09/2024 15:33:43,9,Quarter-Medium,Easier to control and buttons were easier to reach,7,-2,2,-2,2
+09/09/2024 16:16:24,10,Quarter-Medium,The forward move of my virtual hand  is much more than I actually did,3,-1,-3,1,2
+09/09/2024 17:53:19,14,Quarter-Medium,hard to control as the hand move far when I move slightly,6,1,1,0,-1
+10/09/2024 00:43:12,15,Quarter-Medium,"It was normal at the beginning, but the hand moves further towards the end",4,2,2,3,-3
+10/09/2024 01:46:02,16,Quarter-Medium,Scaling kicked in around half way through,10,2,-2,1,-2
+10/09/2024 11:51:12,17,Quarter-Medium,"Partway through the test, the virtual hand was offset further forward than I expected, which caused me too overshoot pressing the buttons",1,-1,-2,-2,-1
+10/09/2024 14:01:36,18,Quarter-Medium,"the virtual hand followed me well in the beginning, but it could not follow me well later",9,-1,-2,1,-1
+10/09/2024 14:55:11,19,Quarter-Medium,better pace than last 2 tries.,5,1,-3,2,3
+10/09/2024 18:53:59,20,Quarter-Medium,This time the hand is more accurate than previous runs.,5,2,1,1,1
+21/11/2024 17:10:53,21,Quarter-Medium,"Overall, it is hard to clike all the buttons",,-2,-2,-2,0
+21/11/2024 17:53:06,22,Quarter-Medium,,,1,-2,2,-3
+06/09/2024 14:09:23,1,Start-High,felt pretty slow,11,-3,2,-3,3
+06/09/2024 14:43:54,2,Start-High,not sure - after the first few it felt a bit different,2,0,-2,-1,1
+06/09/2024 15:59:08,3,Start-High,Dysync of hand position was awkward to adjust as required micro adjusting actual hand close to body whilst virtual hand was far from body.,8,-3,3,2,2
+06/09/2024 16:39:13,4,Start-High,hand became permanently displaced in front of my body partway through,6,-2,3,-1,2
+06/09/2024 18:10:00,5,Start-High,No,4,1,-1,1,0
+07/09/2024 00:06:57,11,Start-High,Felt like I could keep my hand very close to my body,9,-1,1,1,1
+07/09/2024 02:16:32,12,Start-High,"At the beginning, I was not quite good with using the mismatced virtual hand but after about 4 to 5 time attempts I got better and it felt more ""natural"" to me.",1,-2,-1,1,-1
+07/09/2024 04:17:30,13,Start-High,I feel I have less control of the virtual hand this time. ,10,1,-2,1,-1
+07/09/2024 13:08:18,6,Start-High,The same as last round. The control became very non-linear towards the end,10,1,-3,1,-2
+09/09/2024 13:14:42,7,Start-High,The virtual hand is keeping away from me during the interaction time.,1,1,0,-3,1
+09/09/2024 14:29:38,8,Start-High,"obvious hand extension, hard to aim",9,0,-1,1,-1
+09/09/2024 15:28:26,9,Start-High,hand orientation wasn't true to real life hand and arm was shaky,5,-3,3,-3,3
+09/09/2024 16:22:29,10,Start-High,The forward motion is much more far than before. ,5,-3,-3,-1,-2
+09/09/2024 17:46:28,14,Start-High,very hard the whole time,4,-3,2,-2,1
+10/09/2024 00:52:10,15,Start-High,"The hand moves further than naturally since the beginning, but I got better at the accelerated hand.",6,1,0,0,-1
+10/09/2024 01:42:13,16,Start-High,This one applied scaling about half way through,8,2,-2,1,-1
+10/09/2024 11:55:20,17,Start-High,"The virtual hand started spazzing out at one point, which made it difficult to press the button. The hand was still slightly offset",2,-2,-2,-3,1
+10/09/2024 14:06:06,18,Start-High,"the virtual hand followed me well initially, but the movement of the virtual hand become unorganised at the end",11,-2,-2,-1,1
+10/09/2024 14:46:40,19,Start-High,the timing of the hand movements was faster than my previous runs. felt more unnatural than last 2 runs,3,-2,-3,1,3
+10/09/2024 19:00:11,20,Start-High,This time is less accurate than last time.,7,1,1,1,-1
+21/11/2024 17:04:46,21,Start-High,"Same like last time, for some buttons in the beginning, I just need to go toward the button and the button will be cliked automatically. Later, it is very easy to clike the rest of  the buttons.",,1,0,1,1
+21/11/2024 18:26:12,22,Start-High,"yes, for some specific position of the button the interaction time increases",,-1,0,0,-1
+06/09/2024 13:46:42,1,Start-Low,"i was slower for me, took more time to find the right distance",1,1,2,1,-1
+06/09/2024 15:07:24,2,Start-Low,i think my movements were becoming more amplified over time,9,2,-2,2,-2
+06/09/2024 15:50:50,3,Start-Low,"Hand extension, more predictable extension but more difficult to hit targets.",5,1,2,2,-2
+06/09/2024 16:35:01,4,Start-Low,movement forward got more and more exaggerated,5,-1,2,-1,2
+06/09/2024 18:33:19,5,Start-Low,The appearance of buttons were faster than before.  ,9,-1,-1,-1,0
+06/09/2024 23:48:55,11,Start-Low,I had a go-go hand.,2,2,1,2,-2
+07/09/2024 02:41:02,12,Start-Low,"I'm not quite sure but I felt when I was reaching for a further position, the virtual hand seemed to sped up? But when I was moving slower, the distance between the actual and virtual hand seemsed smaller.",11,3,-2,3,-3
+07/09/2024 03:58:38,13,Start-Low,"Except sometimes the click action is not correctly captured by the system, I feel a high level control of the virtual hand",3,3,-3,2,2
+07/09/2024 12:37:40,6,Start-Low,Yes. I felt that the control became less linear when compared to the training round,1,3,-3,3,-2
+09/09/2024 13:37:13,7,Start-Low,Nope,10,0,0,0,0
+09/09/2024 14:12:30,8,Start-Low,i feel better control over the hand (can still feel existance of hand extension tho),4,3,-3,3,-2
+09/09/2024 15:31:27,9,Start-Low,less control,6,-3,3,-3,3
+09/09/2024 16:30:53,10,Start-Low,The forward motion is a little bit far than I did. ,8,-1,-3,1,2
+09/09/2024 17:58:34,14,Start-Low,hard to control ,7,1,0,0,-1
+10/09/2024 00:54:24,15,Start-Low,"This time it seems the hand is not accelerated, but it felt weird and hard to control",7,0,1,0,2
+10/09/2024 01:32:17,16,Start-Low,"Yes the scaling kicked in about half way through and it became harder, altough less fatiguing, to hit the targets",3,2,-2,1,-1
+10/09/2024 12:33:18,17,Start-Low,"It was mostly the same as the last one, except for some lag.",11,1,-2,1,2
+10/09/2024 13:39:38,18,Start-Low,sometimes I could control the virtual hand well but sometimes it was out of my control,2,-1,-3,2,-2
+10/09/2024 15:04:30,19,Start-Low,there was some lagging in pressing one or two buttons,8,2,-3,2,3
+10/09/2024 18:56:48,20,Start-Low,"This time the movement of virtual hand is pretty much like my hand, and it is slower than previous ones.",6,2,-1,1,-1
+21/11/2024 16:50:25,21,Start-Low,It is easier to do the task.,,1,0,1,1
+21/11/2024 18:17:40,22,Start-Low,no,,0,-1,0,-3
+06/09/2024 13:49:21,1,Start-Medium,"long distance targets were harder to correctly touch, that took longer. short distance was very immediate",2,2,1,2,-2
+06/09/2024 15:17:32,2,Start-Medium,"yes, my arm got longer at some point",11,2,-2,2,-2
+06/09/2024 15:43:05,3,Start-Medium,Felt sudden change in extending hand was a hindrance with initial distance but was able to adjust,3,1,2,2,-1
+06/09/2024 16:41:55,4,Start-Medium,hand movement forward became dramatically augmented,7,-1,3,0,1
+06/09/2024 18:23:06,5,Start-Medium,no,7,-2,-1,-1,0
+06/09/2024 23:54:26,11,Start-Medium,It felt like I didn't have to move my hand as far away from my body. Also go-go.,4,1,1,0,-1
+07/09/2024 02:38:13,12,Start-Medium,The distance between my actual and virtual gradually enlarged. And I actual hand movement got very samll towards the end.,10,2,-2,1,-2
+07/09/2024 03:52:25,13,Start-Medium,I feel the virtual hand is less like a part of my body at the begining. Later I have more control and feel more a part of my body,1,1,2,2,1
+07/09/2024 12:43:22,6,Start-Medium,No. I felt the same compared with the last round,3,2,-3,2,-2
+09/09/2024 13:40:23,7,Start-Medium,The distance of the virtual hand from me is increasing during the interaction time. (From very close to a bit far from me),11,-1,-1,0,1
+09/09/2024 14:06:21,8,Start-Medium,my hand seems extended sometimes,2,2,-2,3,-2
+09/09/2024 15:35:36,9,Start-Medium,Buttons were easier to press,8,-2,1,-2,2
+09/09/2024 16:25:07,10,Start-Medium,The forward motion is far than I did in the last 2/3 process.,6,-2,-3,-1,2
+09/09/2024 18:06:16,14,Start-Medium,"not very hard to control after I used to keep folding my arm, but I don't like folding my arm all the time",9,0,-1,0,-1
+10/09/2024 00:49:56,15,Start-Medium,"At the beginning the hand was okay, but I felt like my hand is harder to use. Later the hand moves further than naturally would.",5,1,2,1,1
+10/09/2024 01:36:34,16,Start-Medium,"It seemed this had scaling applied from very early on, if not from the start",5,1,-1,-1,-1
+10/09/2024 12:25:44,17,Start-Medium,"The hand was offset again, and when I was trying to press the top far right button it kept disappearing",9,-1,-2,0,2
+10/09/2024 13:35:58,18,Start-Medium,the way that i can control the virtual hand,1,-3,-2,1,2
+10/09/2024 15:10:08,19,Start-Medium,better hand movements than last try,10,2,-3,3,3
+10/09/2024 18:51:41,20,Start-Medium,The virtual hand was not very accurate.,4,1,1,-1,1
+21/11/2024 16:59:22,21,Start-Medium,"For some buttons, it is very hard to clike and for some other buttons im the beginning, even I don't doing anything and just go toward it, then the button is cliked automatically",,1,0,1,-1
+21/11/2024 18:12:44,22,Start-Medium,if the button is at a higher position the interaction time increases,,0,-1,1,-3
