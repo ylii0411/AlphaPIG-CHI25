@@ -15,4 +15,4 @@ The configuration of the implemented fatigue model NICER can be found at https:/
 
 ## Reference
 Please refer to the following publication for more details:
-[1] Yi Li, Florian Fischer, Tim Dwyer, Barrett Ens, Robert Crowther, Per Ola Kristensson, and Benjamin Tag. 2025. AlphaPIG: The Nicest Way to Prolong Interactive Gestures in Extended Reality. In CHI Conference on Human Factors in Computing Systems (CHI '25), April 26–May 01, 2025, Yokohama, Japan. ACM, New York, NY, USA, 14 pages. https://doi.org/10.1145/3706598.3714249
+Yi Li, Florian Fischer, Tim Dwyer, Barrett Ens, Robert Crowther, Per Ola Kristensson, and Benjamin Tag. 2025. AlphaPIG: The Nicest Way to Prolong Interactive Gestures in Extended Reality. In CHI Conference on Human Factors in Computing Systems (CHI '25), April 26–May 01, 2025, Yokohama, Japan. ACM, New York, NY, USA, 14 pages. https://doi.org/10.1145/3706598.3714249
